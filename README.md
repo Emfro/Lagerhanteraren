@@ -2,12 +2,12 @@
 ##Axel Boström & Emil Fröjd
 ##Introduction
 This is a Storagehandler, which is essentially a database of products, each of these having certain specific elements chosen by the user. The actions available are the following:
--Add product
--Remove product
--Edit product
--Undo the last change
--Print the database
--Quit
+- Add product
+- Remove product
+- Edit product
+- Undo the last change
+- Print the database
+- Quit
 
 ##Build
 This program is built by means of a makefile. To compile and run one must simply write "make run". To compile and run separately, one must simply write "make lagermain", and then "./lager" to run the program. 

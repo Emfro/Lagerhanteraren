@@ -12,10 +12,10 @@ This is a Storagehandler, which is essentially a database of products, each of t
 ##Build
 This is build using a makefile.
 
-#Program
+##Program
 To compile and run the program one must simply write "make run". To compile and run separately, one must simply write "make lagermain", and then "./lager" to run the program.
 
-#Tests
+##Tests
 To make use of the tests, one must have test.input in the same folder as the program, and then write "make test", which runs the tests.
 
 ##Usage
